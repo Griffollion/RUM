@@ -5,7 +5,7 @@
  * 3. Prevent adjustments of font size after orientation changes in IE and iOS.
  */
 
- @font-face {
+@font-face {
   font-family: roboto-light;
   src: url(/fractal/fonts/roboto-light.eot?);
   src: local(roboto-light), url(/fractal/fonts/roboto-light.eot?#iefix) format("embedded-opentype"),url(/fractal/fonts/roboto-light.woff2) format("woff2"), url(/fractal/fonts/roboto-light.woff) format("woff"), url(/fractal/fonts/roboto-light.ttf) format("truetype"), url(/fractal/fonts/roboto-light.svg#roboto-light) format("svg")
