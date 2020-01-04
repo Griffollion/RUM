@@ -1,0 +1,241 @@
+@font-face {
+  font-family: 'flaticon';
+  src:  url('fonts/flaticon.eot?g8lcv0');
+  src:  url('fonts/flaticon.eot?g8lcv0#iefix') format('embedded-opentype'),
+    url('fonts/flaticon.ttf?g8lcv0') format('truetype'),
+    url('fonts/flaticon.woff?g8lcv0') format('woff'),
+    url('fonts/flaticon.svg?g8lcv0#flaticon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'flaticon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-list:before {
+  content: "\e900";
+}
+.icon-uniF100:before {
+  content: "\f100";
+}
+.icon-uniF101:before {
+  content: "\f101";
+}
+.icon-uniF102:before {
+  content: "\f102";
+}
+.icon-uniF103:before {
+  content: "\f103";
+}
+.icon-uniF104:before {
+  content: "\f104";
+}
+.icon-uniF105:before {
+  content: "\f105";
+}
+.icon-uniF106:before {
+  content: "\f106";
+}
+.icon-uniF107:before {
+  content: "\f107";
+}
+.icon-uniF108:before {
+  content: "\f108";
+}
+.icon-uniF109:before {
+  content: "\f109";
+}
+.icon-uniF110:before {
+  content: "\f110";
+}
+.icon-uniF111:before {
+  content: "\f111";
+}
+.icon-uniF112:before {
+  content: "\f112";
+}
+.icon-uniF113:before {
+  content: "\f113";
+}
+.icon-uniF114:before {
+  content: "\f114";
+}
+.icon-uniF115:before {
+  content: "\f115";
+}
+.icon-uniF116:before {
+  content: "\f116";
+}
+.icon-uniF117:before {
+  content: "\f117";
+}
+.icon-uniF118:before {
+  content: "\f118";
+}
+.icon-uniF119:before {
+  content: "\f119";
+}
+.icon-uniF120:before {
+  content: "\f11a";
+}
+.icon-uniF121:before {
+  content: "\f11b";
+}
+.icon-uniF122:before {
+  content: "\e901";
+}
+.icon-uniF123:before {
+  content: "\e902";
+}
+.icon-uniF124:before {
+  content: "\e903";
+}
+.icon-uniF125:before {
+  content: "\e904";
+}
+.icon-fill-star:before {
+  content: "\e905";
+}
+.icon-empty-star:before {
+  content: "\e906";
+}
+.icon-like:before {
+  content: "\e907";
+}
+.icon-exchange:before {
+  content: "\e908";
+}
+.icon-three-dots:before {
+  content: "\e909";
+}
+.icon-exchange-arrows:before {
+  content: "\e90a";
+}
+.icon-currency:before {
+  content: "\e90b";
+}
+.icon-coins:before {
+  content: "\e90c";
+}
+.icon-link:before {
+  content: "\e90d";
+}
+.icon-rating:before {
+  content: "\e90e";
+}
+.icon-persent-ellipse:before {
+  content: "\e90f";
+}
+.icon-calendar:before {
+  content: "\e910";
+}
+.icon-dislike:before {
+  content: "\e911";
+}
+.icon-dislike-fill:before {
+  content: "\e912";
+}
+.icon-like-fill:before {
+  content: "\e913";
+}
+.icon-user:before {
+  content: "\e914";
+  color: #b4c6d2;
+}
+.icon-messages:before {
+  content: "\e915";
+}
+.icon-eye:before {
+  content: "\e916";
+}
+.icon-telegram:before {
+  content: "\e917";
+}
+.icon-viber:before {
+  content: "\e918";
+}
+.icon-arrow-right:before {
+  content: "\e919";
+}
+.icon-Print:before {
+  content: "\e91a";
+}
+.icon-d_secure:before {
+  content: "\e91b";
+}
+.icon-apple_pay:before {
+  content: "\e91c";
+}
+.icon-GooglePay:before {
+  content: "\e91d";
+}
+.icon-paypass:before {
+  content: "\e91e";
+}
+.icon-payWave:before {
+  content: "\e91f";
+}
+.icon-priority-pass:before {
+  content: "\e920";
+}
+.icon-samsung-pay:before {
+  content: "\e921";
+}
+.icon-chip:before {
+  content: "\e922";
+}
+.icon-car:before {
+  content: "\e923";
+}
+.icon-cashback:before {
+  content: "\e924";
+}
+.icon-clock:before {
+  content: "\e925";
+}
+.icon-daimond:before {
+  content: "\e926";
+}
+.icon-gift:before {
+  content: "\e927";
+}
+.icon-plane:before {
+  content: "\e928";
+}
+.icon-Vector:before {
+  content: "\e929";
+}
+.icon-mastercard:before {
+  content: "\e92a";
+}
+.icon-visa-logo:before {
+  content: "\e92b";
+}
+.icon-mir-logo:before {
+  content: "\e92c";
+}
+.icon-other_pay_system:before {
+  content: "\e92d";
+}
+.icon-union-pay:before {
+  content: "\e92e";
+}
+.icon-print:before {
+  content: "\e92f";
+}
+.icon-file_XLS:before {
+  content: "\e930";
+}
